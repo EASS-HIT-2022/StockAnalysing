@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+nest-asyncio
+googletrans==3.1.0a0
+pytest
+httpx
+
+# dev
+pytest
+requests
