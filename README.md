@@ -1,5 +1,8 @@
 # Stock Analysing
-aplication will analyze text sentiment of twiter posts about stock
+aplication will analyze text sentiment of twiter posts about stock.
+At now beckend use Twint for twiter scraping,  
+Google transletor for translate posts,  
+moc service that respose negative and positive posts (next version will be real sevrvices)
 # Design 
 ![Alt text](pictures/design.drawio.png?raw=true "Design")
 
